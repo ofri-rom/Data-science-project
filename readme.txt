@@ -1,10 +1,6 @@
-presents:
+present:
 
 1.ofri rom : 208891804
-2.Avigail shekasta : 209104314
-3.Dan Monsonego : 313577595
-
-
 Python Libraries for models and data pre processing:
 
 1. sklearn (all the models,preprocessing)
