@@ -1,4 +1,4 @@
-# presents: ofri rom:208891804,Avigail shekasta:209104314,Dan monsonego:313577595
+# presents: ofri rom:208891804
 # import libs
 import pickle
 from matplotlib import pyplot as plt
