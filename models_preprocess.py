@@ -1,4 +1,4 @@
-# presents: ofri rom:208891804
+# present: ofri rom
 # import libs
 import pickle
 from matplotlib import pyplot as plt
