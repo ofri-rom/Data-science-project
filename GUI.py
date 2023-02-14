@@ -1,4 +1,4 @@
-# presents: ofri rom:208891804,Avigail shekasta:209104314,Dan monsonego:313577595
+# present: ofri rom:
 
 # GUI files with streamlit
 # ****************** import libs ***************** #
